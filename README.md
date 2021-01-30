@@ -1,5 +1,6 @@
 # Problem-solving
 Code at HackerRank
 
-#Solve-Me-First
-#Simple-Array-Sum
+Solve-Me-First<br>
+Simple-Array-Sum <br>
+Compare the Triplets <br>
