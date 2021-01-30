@@ -8,3 +8,5 @@ Simple-Array-Sum <br>
 Compare the Triplets <br>
 
 A Very Big Sum <br>
+
+Diagonal Difference<br>
