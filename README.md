@@ -12,4 +12,6 @@ A Very Big Sum <br>
 
 Diagonal Difference<br>
 
-Plus Munus
+Plus Munus<br>
+
+Staircase
