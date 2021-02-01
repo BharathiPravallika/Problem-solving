@@ -14,4 +14,6 @@ Diagonal Difference<br>
 
 Plus Munus<br>
 
-Staircase
+Staircase <br>
+
+Mini-Max_sum
